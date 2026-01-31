@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/salah-counter/static/js/main.c492bdc4.js",
+    "main.css": "/salah-counter/static/css/main.a07fe186.css",
+    "main.js": "/salah-counter/static/js/main.fc481409.js",
     "index.html": "/salah-counter/index.html",
-    "main.c492bdc4.js.map": "/salah-counter/static/js/main.c492bdc4.js.map"
+    "main.a07fe186.css.map": "/salah-counter/static/css/main.a07fe186.css.map",
+    "main.fc481409.js.map": "/salah-counter/static/js/main.fc481409.js.map"
   },
   "entrypoints": [
-    "static/js/main.c492bdc4.js"
+    "static/css/main.a07fe186.css",
+    "static/js/main.fc481409.js"
   ]
 }
